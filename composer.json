@@ -1,0 +1,17 @@
+{
+    "name": "siliconplex/sp-ebay-feedbacks",
+    "description": "Wordpress plugin for ebay feedbacks listing by Siliconplex.com",
+    "type": "dev",
+    "authors": [
+        {
+            "name": "Siliconplex",
+            "email": "usama.ayaz@siliconplex.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"SpEFLInc\\": "./includes"}
+    }
+}
+
+
